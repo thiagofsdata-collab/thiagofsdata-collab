@@ -78,7 +78,7 @@ Automated DRE (Income Statement) variance analysis — ERP-to-report pipeline us
 Full ML lifecycle churn prediction — EDA, SQL analysis, feature engineering, XGBoost, SHAP explainability and AWS S3 artifact storage. Production-minded architecture.
 
 ### 💳 [Credit Risk Analysis](https://github.com/thiagofsdata-collab/credit-risk-analysis)
-Credit risk analysis of a loan portfolio — SQL-driven EDA, statistical profiling of default patterns, and interactive Plotly dashboard consolidating risk metrics and portfolio insights.
+Credit risk analysis of a loan portfolio — SQL-driven EDA, statistical profiling of default patterns, and interactive Power BI dashboard consolidating risk metrics and portfolio insights.
 
 ---
 
