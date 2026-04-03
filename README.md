@@ -72,7 +72,7 @@ End-to-end Next Best Offer model for fintech customers — ML pipeline orchestra
 Production-grade ETL pipeline for financial transaction data — Python, PostgreSQL, Docker, pytest and CI via GitHub Actions. Multi-dataset reconciliation with full data quality controls.
 
 ### 📈 [Financial Performance Analyzer](https://github.com/thiagofsdata-collab/financial-performance-analyzer)
-Automated DRE (Income Statement) variance analysis — ERP-to-report pipeline using PostgreSQL, Pandas and Plotly with period-over-period comparisons and cost center breakdowns.
+Automated DRE (Income Statement) variance analysis — ERP-to-report pipeline using PostgreSQL, Pandas, Power BI and Plotly with period-over-period comparisons and cost center breakdowns.
 
 ### 🔮 [Churn Prediction · Fintech](https://github.com/thiagofsdata-collab/churn-prediction-fintech)
 Full ML lifecycle churn prediction — EDA, SQL analysis, feature engineering, XGBoost, SHAP explainability and AWS S3 artifact storage. Production-minded architecture.
