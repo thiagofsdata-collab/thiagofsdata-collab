@@ -12,7 +12,7 @@ I work at the intersection of data and finance — building end-to-end solutions
 - 🔧 Hands-on across the full data stack — ETL/ELT pipelines, data quality frameworks, time series validation, feature engineering, and analytical dashboards
 - 💹 Domain depth in derivatives, options analytics, financial reconciliation, controllership, and FP&A
 - 📊 Focused on translating data into clear, trustworthy insights — not just building pipelines, but making sure the output is meaningful and usable
-- 🌎 Interested in Data Analyst and Data Scientist roles at the intersection of Finance and Capital Markets
+- 🌎 Interested in Data Analyst and Analytics Engineer roles at the intersection of Finance and Capital Markets
 
 ---
 
