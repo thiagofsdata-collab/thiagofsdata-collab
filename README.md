@@ -68,7 +68,7 @@ IFRS · Financial Reconciliation · FP&A · ERP (NetSuite)
 ### 🎯 [NBO — Next Best Offer · Fintech](https://github.com/thiagofsdata-collab/nbo-recommendation-engine)
 End-to-end Next Best Offer model for fintech customers — ML pipeline orchestrated with Airflow, ETL in Python and SQL, cloud storage on AWS S3, and feature engineering on behavioral and transactional data.
 
-### 🔁 [Financial Transactions ETL Pipeline](https://github.com/thiagofsdata-collab/financial-transactions-etl-pipeline)
+### 🔁 [Fraude Detection ETL Pipeline](https://github.com/thiagofsdata-collab/fraud-detection-etl-pipeline)
 Production-grade ETL pipeline for financial transaction data — Python, PostgreSQL, Docker, pytest and CI via GitHub Actions. Multi-dataset reconciliation with full data quality controls.
 
 ### 📈 [Financial Performance Analyzer](https://github.com/thiagofsdata-collab/financial-performance-analyzer)
