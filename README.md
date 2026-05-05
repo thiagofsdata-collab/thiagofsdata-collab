@@ -1,84 +1,112 @@
 # Hi, I'm Thiago Feliciano 👋
 
-**Data Analyst** focused on Financial Analytics, Data Engineering and Machine Learning.
+**Data Analyst** focused on Business Analytics, Financial Analytics 
+and Data Engineering.
 
-I work at the intersection of data and finance — building end-to-end solutions that go from raw data ingestion to actionable insights. My interest is in turning complex, messy financial data into reliable, well-structured information that people can actually use to make decisions.
+I work at the intersection of data and business — building solutions 
+that go from raw data ingestion to insights that actually change 
+decisions. My background in Accounting and Controlling gives me a 
+business lens that connects technical work to real outcomes: costs, 
+margins, retention, and growth.
 
 ---
 
 ## About
 
-- 🎓 BSc in Accounting Sciences (UFPE · CRC certified) + MBA in Financial Engineering (Poli-USP · in progress)
-- 🔧 Hands-on across the full data stack — ETL/ELT pipelines, data quality frameworks, time series validation, feature engineering, and analytical dashboards
-- 💹 Domain depth in derivatives, options analytics, financial reconciliation, controllership, and FP&A
-- 📊 Focused on translating data into clear, trustworthy insights — not just building pipelines, but making sure the output is meaningful and usable
-- 🌎 Interested in Data Analyst and Analytics Engineer roles at the intersection of Finance and Capital Markets
+- 🎓 BSc in Accounting Sciences (UFPE · CRC certified) + MBA in 
+Financial Engineering (Poli-USP · in progress)
+- 🔧 Hands-on across the full data stack — ETL/ELT pipelines, 
+data quality frameworks, analytical dashboards and BI
+- 💼 Domain experience in e-commerce analytics, controllership, 
+FP&A, financial reconciliation and capital markets
+- 📊 Focused on translating data into clear, actionable insights 
+for both technical and non-technical stakeholders
+- 🌎 Open to Data Analyst and Business Analyst roles — especially 
+in digital business and e-commerce environments
 
 ---
 
 ## What I Do
 
-My work spans three areas that I try to keep connected:
+**Business & Product Analytics** — I work close to business 
+teams, translating data into decisions. Retention analysis, 
+channel attribution, cohort behaviour, funnel drop-off — I focus 
+on the questions that actually move the business forward.
 
-**Data Engineering** — I build modular, production-ready pipelines with a focus on data quality, traceability, and scalability. I care about how data flows from source to consumption layer, and I test and version everything I ship.
+**Data Engineering** — I build modular, production-ready pipelines 
+with a focus on data quality, traceability, and scalability. I 
+test and version everything I ship.
 
-**Financial Analytics** — My accounting and financial engineering background lets me go beyond the pipeline and actually understand what the data represents — whether it's options market structure, cost center variance, or regulatory reporting requirements.
+**Financial Analytics** — My accounting and financial engineering 
+background lets me go beyond the pipeline and understand what the 
+data represents — cost center variance, FP&A support, or 
+regulatory reporting.
 
-**Machine Learning** — I apply ML where it adds real value: churn modeling, next best offer, time series forecasting, and credit risk. I focus on interpretable, well-validated models rather than complexity for its own sake.
+**Machine Learning** — I apply ML where it adds real value: churn 
+modeling, next best offer, and credit risk. I focus on 
+interpretable, well-validated models rather than complexity for 
+its own sake.
 
 ---
 
 ## Tech Stack
 
 **Core**
-```
 Python · SQL · PostgreSQL · DuckDB · Polars · Pandas · NumPy
-```
 
-**Machine Learning**
-```
-Scikit-learn · XGBoost · SHAP · Feature Engineering · Time Series Analysis
-```
+**BI & Visualization**
+Tableau · Power BI · Plotly · Dash · Matplotlib
 
 **Data Engineering**
-```
-ETL/ELT · SQLAlchemy · AWS S3 · Airflow · Docker · pytest
-```
+ETL/ELT · dbt · SQLAlchemy · AWS S3 · Docker · pytest · 
+GitHub Actions
 
-**Visualization & BI**
-```
-Plotly · Dash · Power BI · Matplotlib · Seaborn
-```
+**Machine Learning**
+Scikit-learn · XGBoost · LightGBM · SHAP · Feature Engineering
 
 **DevOps & Versioning**
-```
-Git · Bitbucket Pipelines · CI/CD · GitHub Actions
-```
+Git · CI/CD · Bitbucket Pipelines
 
 **Financial Domain**
-```
-Derivatives · Options Analytics · Greeks · Implied Volatility ·
-IFRS · Financial Reconciliation · FP&A · ERP (NetSuite)
-```
+Derivatives · Options Analytics · IFRS · FP&A · ERP (NetSuite)
 
 ---
 
 ## Featured Projects
 
 ### 🎯 [NBO — Next Best Offer · Fintech](https://github.com/thiagofsdata-collab/nbo-recommendation-engine)
-End-to-end Next Best Offer model for fintech customers — ML pipeline orchestrated with Airflow, ETL in Python and SQL, cloud storage on AWS S3, and feature engineering on behavioral and transactional data.
+End-to-end recommendation engine identifying the most relevant 
+product for each customer based on behavioural and transactional 
+data — designed to support marketing teams in improving conversion 
+and retention.
+Stack: Python · PostgreSQL · SQL · LightGBM · SHAP · MLflow · 
+FastAPI · Docker
 
-### 🔁 [Fraude Detection ETL Pipeline](https://github.com/thiagofsdata-collab/fraud-detection-etl-pipeline)
-Production-grade ETL pipeline for financial transaction data — Python, PostgreSQL, Docker, pytest and CI via GitHub Actions. Multi-dataset reconciliation with full data quality controls.
+### 🔍 [Fraud Detection ETL Pipeline](https://github.com/thiagofsdata-collab/financial-transactions-etl-pipeline)
+Production-grade ETL pipeline for financial transaction data — 
+flagged USD 3.08M in financial exposure through SQL-based 
+behavioural analysis. Full data quality controls with pytest 
+and CI/CD via GitHub Actions.
+Stack: Python · PostgreSQL · Docker · pytest · GitHub Actions
 
 ### 📈 [Financial Performance Analyzer](https://github.com/thiagofsdata-collab/financial-performance-analyzer)
-Automated DRE (Income Statement) variance analysis — ERP-to-report pipeline using PostgreSQL, Pandas, Power BI and Plotly with period-over-period comparisons and cost center breakdowns.
+Automated income statement variance analysis — ERP-to-report 
+pipeline with period-over-period comparisons and cost center 
+breakdowns delivered through Power BI and Plotly.
+Stack: PostgreSQL · Pandas · Power BI · Plotly
 
 ### 🔮 [Churn Prediction · Fintech](https://github.com/thiagofsdata-collab/churn-prediction-fintech)
-Full ML lifecycle churn prediction — EDA, SQL analysis, feature engineering, XGBoost, SHAP explainability and AWS S3 artifact storage. Production-minded architecture.
+Full ML lifecycle churn prediction — monthly contract customers 
+churn 3x more than long-term ones. Delivered actionable retention 
+strategy with SHAP explainability and interactive visualizations 
+for non-technical stakeholders.
+Stack: XGBoost · SHAP · DuckDB · SQL · AWS S3
 
 ### 💳 [Credit Risk Analysis](https://github.com/thiagofsdata-collab/credit-risk-analysis)
-Credit risk analysis of a loan portfolio — SQL-driven EDA, statistical profiling of default patterns, and interactive Power BI dashboard consolidating risk metrics and portfolio insights.
+SQL-driven analysis of 150k records identifying default profiles 
+— top 9 risk segments concentrate 68% of portfolio defaults. 
+Findings delivered through interactive segmentation dashboards.
+Stack: PostgreSQL · SQL (CTEs, window functions) · Power BI
 
 ---
 
